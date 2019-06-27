@@ -1,0 +1,15 @@
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/obj/Debug/netcoreapp2.1/consumeModelApp.csprojAssemblyReference.cache
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/obj/Debug/netcoreapp2.1/consumeModelApp.csproj.CoreCompileInputs.cache
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/obj/Debug/netcoreapp2.1/consumeModelApp.AssemblyInfoInputs.cache
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/obj/Debug/netcoreapp2.1/consumeModelApp.AssemblyInfo.cs
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/MLModel.zip
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/consumeModelApp.deps.json
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/consumeModelApp.runtimeconfig.json
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/consumeModelApp.runtimeconfig.dev.json
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/consumeModelApp.dll
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/consumeModelApp.pdb
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/obj/Debug/netcoreapp2.1/consumeModelApp.csproj.CopyComplete
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/obj/Debug/netcoreapp2.1/consumeModelApp.dll
+/Users/benzidrine/Repos/myMLApp/consumeModelApp/obj/Debug/netcoreapp2.1/consumeModelApp.pdb
